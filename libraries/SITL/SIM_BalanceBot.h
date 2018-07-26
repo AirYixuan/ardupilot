@@ -38,7 +38,6 @@ private:
     // vehicle frame x velocity
     float velocity_vf_x;
 
-    float max_speed;
     float skid_turn_rate;
 
     float calc_yaw_rate(float steering);
